@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- Base application theme. -->
-    <style name="Theme.Pro100Invents" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
-        <item name="colorPrimary">#A15EC1F6</item>
-        <item name="colorPrimaryDark">#C8398C3B</item>
-    </style>
-</resources>
