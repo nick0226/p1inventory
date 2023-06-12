@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">plaine-example</string>
+    <string name="year">1970</string>
+    <string name="type_plaine">Boeing 747</string>
+
+
+    <string name="content_title">Airliner proposal</string>
+    <string name="content">
+        <![CDATA[
+        <html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            In 1965, Joe Sutter was transferred from Boeing&#39;s 737</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            development team to manage the design studies for</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            the new airliner, already assigned the model number</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            747. Sutter began a design study with Pan Am and</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            other airlines to better understand their requirements.</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            At the time, many thought that long-range subsonic</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            airliners would eventually be superseded by supersonic</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            transport aircraft. Boeing responded by designing the</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            747 so it could be adapted easily to carry freight and</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            remain in production even if sales of the passenger</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            version declined.</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            <h1>Development and testing</h1></div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            The flight test program was hampered by problems</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            with the 747&#39;s JT9D engines. Difficulties included</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            engine stalls caused by rapid throttle movements and</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            distortion of the turbine casings after a short period of</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            service. The problems delayed 747 deliveries for</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            several months; up to 20 aircraft at the Everett plant</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            were stranded while awaiting engine installation.In 1965, Joe Sutter was transferred from Boeing&#39;s 737</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            development team to manage the design studies for</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            the new airliner, already assigned the model number</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            747. Sutter began a design study with Pan Am and</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            other airlines to better understand their requirements.</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            At the time, many thought that long-range subsonic</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            airliners would eventually be superseded by supersonic</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            transport aircraft. Boeing responded by designing the</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            747 so it could be adapted easily to carry freight and</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            remain in production even if sales of the passenger</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            version declined.</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            Development and testing</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            The flight test program was hampered by problems</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            with the 747&#39;s JT9D engines. Difficulties included</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            engine stalls caused by rapid throttle movements and</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            distortion of the turbine casings after a short period of</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            service. The problems delayed 747 deliveries for</div>
+        <div id="cke_pastebin" style="position: absolute; left: -1000px; top: 16px; width: 1px; height: 1px; overflow: hidden;">
+            several months; up to 20 aircraft at the Everett plant</div>
+        <p>
+    </body>
+</html>
+        ]]>
+    </string>
+
+
+</resources>
